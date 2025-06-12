@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Chaiyut Nacharoen</h1>
 
 <!--
 **chaiyutn/chaiyutn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
